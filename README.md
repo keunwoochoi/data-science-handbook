@@ -53,3 +53,8 @@ pymc>=2.3.6
 tensorflow>=1.4.1
 ```
 
+## 링크
+- [The Data Science Handbook at Amazon (원서, 영문)](https://www.amazon.com/Data-Science-Handbook-Field-Cady-ebook/dp/B01N9ZUWWS/ref=mt_kindle?_encoding=UTF8&me=)
+- [원본 소스코드](https://github.com/field-cady/the_data_science_handbook)
+
+
